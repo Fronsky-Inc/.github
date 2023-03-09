@@ -1,4 +1,5 @@
 # Fronsky Inc
+Fronsky Inc is a dynamic software development company that specializes in creating innovative software solutions for businesses of all sizes. The company is dedicated to designing, developing, and implementing high-quality software applications that streamline business operations, increase productivity, and improve overall performance.
 
 ## Project Updates
 Welcome to our project updates section! Here you can find all the latest developments and updates on our project. We will be keeping this section up-to-date with all the new features, bug fixes, and other important changes that we make to the project.
