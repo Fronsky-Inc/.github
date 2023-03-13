@@ -11,6 +11,7 @@ Here are some of the exciting updates we have in the pipeline for you:
 2. Spigot Framework API 1.0.0
 3. ChatGuard 1.1.0
 4. Prefix 1.2.0
-5. Vanish 1.2.0
+5. Vanish Pro 1.0.2
+6. Vanish 1.2.0
 
 We hope that this section will help you stay informed about our project and its progress. If you have any questions or feedback, please don't hesitate to reach out to us. Thank you for your interest in our project!
