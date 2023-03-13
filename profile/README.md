@@ -8,10 +8,10 @@ Welcome to our project updates section! Here you can find all the latest develop
 Here are some of the exciting updates we have in the pipeline for you:
 
 1. PHP Framework 1.0.3
-2. Spigot Framework API 1.0.0
-3. ChatGuard 1.1.0
-4. Prefix 1.2.0
-5. Vanish Pro 1.0.2
+2. Vanish Pro 1.0.2
+3. Spigot Framework API 1.0.0
+4. ChatGuard 1.1.0
+5. Prefix 1.2.0
 6. Vanish 1.2.0
 
 We hope that this section will help you stay informed about our project and its progress. If you have any questions or feedback, please don't hesitate to reach out to us. Thank you for your interest in our project!
